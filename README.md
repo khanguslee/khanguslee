@@ -4,7 +4,8 @@ console.log(khanguslee);
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Vue.js       6 hrs           ████████████████████▒░░░░   80.81 % 
+JavaScript   1 hr 25 mins    ████▓░░░░░░░░░░░░░░░░░░░░   19.19 % 
 ```
 <!--END_SECTION:waka-->
 
