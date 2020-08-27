@@ -4,8 +4,10 @@ console.log(khanguslee);
 
 <!--START_SECTION:waka-->
 ```text
-Vue.js       6 hrs           ████████████████████▒░░░░   80.81 % 
-JavaScript   1 hr 25 mins    ████▓░░░░░░░░░░░░░░░░░░░░   19.19 % 
+Vue.js       9 hrs 36 mins   ████████████████████░░░░░   80.25 % 
+JavaScript   2 hrs 20 mins   █████░░░░░░░░░░░░░░░░░░░░   19.56 % 
+HTML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+SCSS         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 ```
 <!--END_SECTION:waka-->
 
