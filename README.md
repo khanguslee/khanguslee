@@ -4,11 +4,11 @@ console.log(khanguslee);
 
 <!--START_SECTION:waka-->
 ```text
-JSX          13 hrs 36 mins  ██████████████▒░░░░░░░░░░   57.07 % 
-LESS         5 hrs 29 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.01 % 
-TypeScript   3 hrs 14 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.58 % 
-JavaScript   1 hr 20 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
-JSON         7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+JSX          13 hrs 39 mins  ██████████████▓░░░░░░░░░░   58.61 % 
+LESS         4 hrs 44 mins   █████░░░░░░░░░░░░░░░░░░░░   20.37 % 
+JavaScript   3 hrs 2 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.02 % 
+TypeScript   1 hr 41 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
+JSON         7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
 ```
 <!--END_SECTION:waka-->
 
