@@ -4,9 +4,7 @@ console.log(khanguslee);
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   2 hrs 17 mins   █████████████████████▓░░░   87.12 % 
-JSX          11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
-TypeScript   9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
