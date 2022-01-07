@@ -4,7 +4,10 @@ console.log(khanguslee);
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+JavaScript   18 mins         ████████▒░░░░░░░░░░░░░░░░   33.19 % 
+YAML         17 mins         ████████░░░░░░░░░░░░░░░░░   31.47 % 
+XML          16 mins         ███████░░░░░░░░░░░░░░░░░░   28.65 % 
+LESS         3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
 ```
 <!--END_SECTION:waka-->
 
