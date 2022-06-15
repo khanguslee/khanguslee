@@ -5,8 +5,7 @@ console.log(khanguslee);
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   1 hr 29 mins    ███████████████████████▒░   93.96 %
-HTML         5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.04 %
+JavaScript   3 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
