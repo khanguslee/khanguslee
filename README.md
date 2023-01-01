@@ -5,12 +5,7 @@ console.log(khanguslee);
 <!--START_SECTION:waka-->
 
 ```text
-Docker       5 mins          ██████████▒░░░░░░░░░░░░░░   41.33 %
-JavaScript   4 mins          ████████▓░░░░░░░░░░░░░░░░   34.23 %
-JSON         1 min           ███░░░░░░░░░░░░░░░░░░░░░░   11.82 %
-Go           1 min           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.92 %
-TypeScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
-YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
