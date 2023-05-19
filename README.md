@@ -5,7 +5,8 @@ console.log(khanguslee);
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+TypeScript   4 hrs 27 mins   ███████████████████▓░░░░░   79.32 %
+JavaScript   1 hr 9 mins     █████▒░░░░░░░░░░░░░░░░░░░   20.68 %
 ```
 
 <!--END_SECTION:waka-->
