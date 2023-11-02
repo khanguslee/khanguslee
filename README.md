@@ -5,11 +5,11 @@ console.log(khanguslee);
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   6 hrs           █████████▓░░░░░░░░░░░░░░░   39.27 %
-Python       3 hrs 47 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.73 %
-JavaScript   1 hr 44 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.34 %
-Other        1 hr 15 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 %
-JSON         1 hr 1 min      █▓░░░░░░░░░░░░░░░░░░░░░░░   06.75 %
+TypeScript   5 hrs 14 mins   ███████▒░░░░░░░░░░░░░░░░░   29.80 %
+JavaScript   4 hrs 26 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.24 %
+Python       3 hrs 5 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.63 %
+JSON         1 hr 46 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.09 %
+Other        1 hr 4 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.09 %
 ```
 
 <!--END_SECTION:waka-->
