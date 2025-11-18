@@ -5,7 +5,10 @@ console.log(khanguslee);
 <!--START_SECTION:waka-->
 
 ```txt
-Go   8 mins          █████████████████████████   100.00 %
+Go           15 mins         █████████████▓░░░░░░░░░░░   54.27 %
+JavaScript   10 mins         █████████▒░░░░░░░░░░░░░░░   36.97 %
+Other        1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.72 %
+TypeScript   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
 ```
 
 <!--END_SECTION:waka-->
