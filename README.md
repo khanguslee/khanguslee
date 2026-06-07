@@ -5,11 +5,11 @@ console.log(khanguslee);
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     6 hrs 36 mins         ███████████▒░░░░░░░░░░░░░   44.80 %
-TypeScript   4 hrs                 ██████▓░░░░░░░░░░░░░░░░░░   27.14 %
-JavaScript   2 hrs 6 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.32 %
-YAML         41 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 %
-Java         40 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 %
+Markdown     6 hrs 48 mins         ███████████▒░░░░░░░░░░░░░   44.75 %
+TypeScript   3 hrs 52 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.43 %
+JavaScript   1 hr 56 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.75 %
+YAML         1 hr 26 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.46 %
+Java         40 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 %
 ```
 
 <!--END_SECTION:waka-->
